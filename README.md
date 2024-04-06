@@ -1,4 +1,4 @@
-👋 Olá! Sou [Seu Nome], um apaixonado por tecnologia e um entusiasta autodidata. Constantemente mergulho em novas áreas do vasto universo da tecnologia, alimentando minha curiosidade e sede de conhecimento.
+👋 Olá! Sou Luiz Felipe, um apaixonado por tecnologia e um entusiasta autodidata. Constantemente mergulho em novas áreas do vasto universo da tecnologia, alimentando minha curiosidade e sede de conhecimento.
 
 # Contato
 
