@@ -1,4 +1,6 @@
-👋 Olá! Sou Luiz Felipe, um apaixonado por tecnologia e um entusiasta autodidata. Constantemente mergulho em novas áreas do vasto universo da tecnologia, alimentando minha curiosidade e sede de conhecimento.
+👋Olá seja muito bem vindo ao meu perfil chamo Luiz Felipe tenho 20 anos, e sou uma pessoa altamente motivada por aprender. Possuo uma excelente facilidade de aprendizagem e estou constantemente buscando novos conhecimentos.
+
+Atualmente, meu foco está em desenvolvimento Front End, especialmente em React, onde tenho experiência prática em projetos que não apenas atendem às necessidades dos usuários, mas também proporcionam uma experiência positiva.
 
 ## Contato
 
