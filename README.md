@@ -1,6 +1,6 @@
 #### 👋 Olá seja muito bem vindo ao meu perfil chamo Luiz Felipe tenho 20 anos, e sou uma pessoa altamente motivada por aprender. Possuo uma excelente facilidade de aprendizagem e estou constantemente buscando novos conhecimentos.
 
-#### Atualmente, meu foco está em desenvolvimento Front End, especialmente em React, onde tenho experiência prática em projetos que não apenas atendem às necessidades dos usuários, mas também proporcionam uma experiência positiva.
+#### Atualmente, estou focado em desenvolvimento utilizando React, onde tenho experiência prática em projetos que não apenas atendem às necessidades dos usuários, mas também proporcionam uma experiência positiva. Além disso, estou começando a estudar Java para expandir minhas habilidades de desenvolvimento.
 
 ## Contato
 
