@@ -9,6 +9,7 @@
           <li>Javascript</li>
           <li>React</li>
           <li>TypeScript</li>
+          <li>Bootstrap</li>
           <li>Sass</li>
           <li>Styled Components</li>
           <li>Node.js</li>
