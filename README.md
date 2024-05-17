@@ -4,9 +4,8 @@
 
 
 
-## Tecnologias:
-
- <ul>
+<h3>Tecnologias</h3>
+     <ul>
           <li>Javascript</li>
           <li>React</li>
           <li>TypeScript</li>
@@ -14,5 +13,4 @@
           <li>Styled Components</li>
           <li>Node.js</li>
           <li>Sql</li>
-
      </ul>
