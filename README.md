@@ -6,12 +6,9 @@
 
 <h3>Tecnologias</h3>
      <ul>
-          <li>Javascript</li>
-          <li>React</li>
-          <li>TypeScript</li>
-          <li>Bootstrap</li>
-          <li>Sass</li>
-          <li>Styled Components</li>
-          <li>Node.js</li>
-          <li>Sql</li>
+          <li>Javascript</li>          <li>Sass</li>
+          <li>React</li>               <li>Styled Components</li>
+          <li>TypeScript</li>          <li>Node.js</li>
+          <li>Bootstrap</li>           <li>Express.js</li>
+          <li>Sql</li>                 <li>Sequelize.js</li>
      </ul>
