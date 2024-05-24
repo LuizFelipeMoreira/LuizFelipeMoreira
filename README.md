@@ -7,22 +7,20 @@ Atualmente, estou focado em desenvolvimento utilizando React, onde tenho experi√
 <div style="display: flex; justify-content: space-between;">
 
 <div>
-  <ul>
-    <li>Javascript</li>
+  <ul> 
     <li>React</li>
     <li>TypeScript</li>
     <li>Bootstrap</li>
-    <li>Sql</li>
-  </ul>
-</div>
-
-<div>
-  <ul>
     <li>Sass</li>
     <li>Styled Components</li>
+  </ul>
+</div>
+<div>
+  <ul>
     <li>Node.js</li>
     <li>Express.js</li>
     <li>Sequelize.js</li>
+    <li>Sql</li>
   </ul>
 </div>
 
