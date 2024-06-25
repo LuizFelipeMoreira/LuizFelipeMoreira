@@ -6,22 +6,10 @@ Atualmente, estou focado em desenvolvimento utilizando React, onde tenho experi√
 
 <div style="display: flex; justify-content: space-between;">
 
-<div>
-  <ul> 
-    <li>React</li>
-    <li>TypeScript</li>
-    <li>Bootstrap</li>
-    <li>Sass</li>
-    <li>Styled Components</li>
-  </ul>
-</div>
-<div>
-  <ul>
-    <li>Node.js</li>
-    <li>Express.js</li>
-    <li>Sequelize.js</li>
-    <li>Sql</li>
-  </ul>
-</div>
+<p><strong>Linguagens: </strong>Javascript, Typescript.</p>
+<hr/>
+<p><strong>Front-End: </strong>ReactJs, Sass, Bootstrap, Styled-Componets, HTML, CSS</p>
+<hr/>
+<p><strong>Back-End: </strong>Node.js, Express.js, Sequelize, SQL, SQL Server, MYSQL</p>
 
 </div>
