@@ -4,9 +4,11 @@ Sou Luiz Felipe, desenvolvedor Fullstack com sólidos conhecimentos em React e T
 
 Atualmente, meu foco está em aprimorar minhas habilidades tanto no front-end quanto no back-end, garantindo uma experiência de usuário fluida e eficaz.
 
-<h1>🚀 Tecnologias </h1>
+<h2>🚀 Tecnologias </h2>
 📌 Linguagens: JavaScript (ES6+), TypeScript
 
 🎨 Front-End: React, Next.js, Context API, Axios, Styled-Components, Sass, Bootstrap, HTML, CSS
+
 ⚙️ Back-End: Node.js, Express, Prisma, Sequelize, Knex.js, MySQL, PostgreSQL
+
 🛠️ Versionamento de Código: Git, GitHub
