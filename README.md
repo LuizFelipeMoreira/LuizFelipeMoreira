@@ -1,15 +1,15 @@
-👋 Olá, seja muito bem-vindo ao meu perfil! Chamo-me Luiz Felipe, tenho 20 anos e sou uma pessoa altamente motivada por aprender. Possuo uma excelente facilidade de aprendizagem e estou constantemente buscando novos conhecimentos.
+## 👋 Olá, seja bem-vindo ao meu perfil!
 
-Atualmente, estou focado em desenvolvimento utilizando React, onde tenho experiência prática em projetos que não apenas atendem às necessidades dos usuários, mas também proporcionam uma experiência positiva. Além disso, estou começando a estudar Node para o desenvolvimento no back-end.
+Sou Luiz Felipe, desenvolvedor Fullstack com sólidos conhecimentos em React e TypeScript, e experiência no desenvolvimento de interfaces modernas e responsivas. Tenho experiência prática na integração com APIs e no desenvolvimento de APIs RESTful utilizando Node.js. Sou proativo, tenho facilidade para colaborar em equipes, solucionar problemas e aprender novas tecnologias rapidamente.
 
-<h3>Tecnologias</h3>
+Atualmente, meu foco está em aprimorar minhas habilidades tanto no front-end quanto no back-end, garantindo uma experiência de usuário fluida e eficaz.
 
-<div style="display: flex; justify-content: space-between;">
-
-<p><strong>Linguagens: </strong>Javascript, Typescript.</p>
-<hr/>
-<p><strong>Front-End: </strong>ReactJs, Sass, Bootstrap, Styled-Componets, HTML, CSS</p>
-<hr/>
-<p><strong>Back-End: </strong>Node.js, Express.js, Sequelize, SQL, SQL Server, MYSQL</p>
-
-</div>
+<h1>🚀 Tecnologias </h1>
+📌 Linguagens
+JavaScript (ES6+), TypeScript
+🎨 Front-End
+React, Next.js, Context API, Axios, Styled-Components, Sass, Bootstrap, HTML, CSS
+⚙️ Back-End
+Node.js, Express, Prisma, Sequelize, Knex.js, MySQL, PostgreSQL
+🛠️ Versionamento de Código
+Git, GitHub
