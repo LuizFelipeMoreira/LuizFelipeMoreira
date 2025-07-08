@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem-vindo ao meu perfil!
 
-Sou Luiz Felipe, desenvolvedor Fullstack com sólidos conhecimentos em React e TypeScript, e experiência no desenvolvimento de interfaces modernas e responsivas. Tenho experiência prática na integração com APIs e no desenvolvimento de APIs RESTful utilizando Node.js. Sou proativo, tenho facilidade para colaborar em equipes, solucionar problemas e aprender novas tecnologias rapidamente.
+Me chamo Luiz Felipe, sou desenvolvedor Fullstack com sólidos conhecimentos em React e TypeScript, e experiência no desenvolvimento de interfaces modernas e responsivas. Tenho experiência prática na integração com APIs e no desenvolvimento de APIs RESTful utilizando Node.js. Sou proativo, tenho facilidade para colaborar em equipes, solucionar problemas e aprender novas tecnologias rapidamente.
 
 Atualmente, meu foco está em aprimorar minhas habilidades tanto no front-end quanto no back-end, garantindo uma experiência de usuário fluida e eficaz.
 
