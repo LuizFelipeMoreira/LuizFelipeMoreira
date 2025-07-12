@@ -8,7 +8,7 @@ Atualmente, meu foco está em aprimorar minhas habilidades tanto no front-end qu
 
 📌 Linguagens: JavaScript (ES6+), TypeScript
 
-🎨 Front-End: React, Next.js, Context API, Axios, Styled-Components, Sass, Bootstrap, HTML, CSS
+🎨 Front-End: React, Next.js, Context API, Axios, Styled-Components, Sass, Bootstrap
 
 ⚙️ Back-End: Node.js, Express, Prisma, Sequelize, Knex.js, MySQL, PostgreSQL
 
